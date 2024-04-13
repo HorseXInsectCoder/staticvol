@@ -1,0 +1,11 @@
+{
+  "name": "staticvol",
+  "version": "1.0.0",
+  "description": "Measure network traffic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cyhzero@gmail.com",
+  "license": "ISC"
+}
